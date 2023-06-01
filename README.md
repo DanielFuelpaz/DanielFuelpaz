@@ -60,4 +60,4 @@ Hello! I'm Daniel Fuelpaz, a 21-year-old software engineering student
 
 - [**Sistema de Gestión de Proyectos**](https://github.com/DanielFuelpaz/Proyecto1erParcialED.git)
 
-  - contribuidores [@badilleins]()
+  - contribuidores [@badilleins](https://github.com/badilleins)
