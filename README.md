@@ -38,12 +38,11 @@ Hello! I'm Daniel Fuelpaz, a 21-year-old software engineering student
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfuelpaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfuelpaz&layout=compact&langs_count=4&hide=HTML,CSS)](https://github.com/anuraghazragithub-readme-stats)
 
 ## Graphs
 
-![Graphs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielFuelpaz)
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielFuelpaz)
+![Graphs2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielfuelpaz&theme=github_dark)
 
 ## Projects
 
@@ -51,4 +50,8 @@ Hello! I'm Daniel Fuelpaz, a 21-year-old software engineering student
 
 - [**Sistema de Gestión de Proyectos**](https://github.com/DanielFuelpaz/Proyecto1erParcialED.git)
 
-  - contribuidores [@badilleins](https://github.com/badilleins)
+## Partners
+
+| [@badilleins](https://github.com/badilleins)| [@G4TO](https://github.com/CarlosAl21)| [@Gabriel Medina](https://github.com/GabooMedina)|
+| --- | --- | --- | 
+| ![@badiIcon](https://avatars.githubusercontent.com/u/72108507?s=150) | ![@G4t0](https://avatars.githubusercontent.com/u/108234879?s=155&v=1) | ![@Gabriel Medina](https://avatars.githubusercontent.com/u/108240808?s=155&v=1) | 
